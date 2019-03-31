@@ -15,6 +15,4 @@ def create_pool(loop,**kw):
         minisize=kw.get('minszie',1),
         loop=loop
     )
-
-        passw
-    )
+    
